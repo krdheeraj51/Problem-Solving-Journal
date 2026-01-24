@@ -9,4 +9,5 @@
 | **005** | Jan 21 | Hello World | 🟢 Easy | Dummy | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/helloWorld.py) |
 | **006** | Jan 23 | Hello World | 🟢 Easy | Dummy | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/helloWorld_2.py) |
 | **007** | Jan 24 | Bingo! Letter | 🟢 Easy | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/getBingoLetter.py) |
+| **008** | Jan 24 | Hex  Validator | 🟢 Easy | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/hexValidator.py) |
 

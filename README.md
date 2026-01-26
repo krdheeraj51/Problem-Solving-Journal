@@ -11,5 +11,6 @@
 | **007** | Jan 24 | Bingo! Letter | 🟢 Easy | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/January-2026/getBingoLetter.py) |
 | **008** | Jan 24 | Hex  Validator | 🟢 Easy | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/January-2026/hexValidator.py) |
 | **009** | Jan 25 | Hello World | 🟢 Easy | Dummy | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/January-2026/helloWorld_3.py) |
+| **009** | Jan 26 | Scaled Image | 🟢 Easy | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/January-2026/scaledImages.py) |
 
 

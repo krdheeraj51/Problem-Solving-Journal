@@ -14,5 +14,6 @@
 | **010** | Jan 26 | Scaled Image | 🟢 Easy | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/January-2026/scaledImages.py) |
 | **011** | Jan 26 | FizzBuzz Mini | 🟢 Easy | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/January-2026/fizzBuzzMini.py) |
 | **012** | Jan 27 | Odd or Even Day | 🟢 Easy | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/January-2026/oddEvenDay.py) |
+| **012** | Jan 27 | Flatten the Array | 🟡 Medium | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/January-2026/flattenArray.py) |
 
 

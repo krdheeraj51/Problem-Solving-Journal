@@ -18,6 +18,9 @@
 | **014** | Jan 29 | Hello World | 🟢 Easy | Dummy | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/January-2026/helloWorld_4.py) |
 | **015** | Jan 30 | Hello World | 🟢 Easy | Dummy | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/January-2026/helloWorld_5.py) |
 | **016** | Jan 31 | Zodiac Finder  | 🟢 Easy | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/January-2026/zodiacFinder.py) |
+| **017** | Feb 1 | Prime Number Checker  | 🟢 Easy | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/February/chekPrimeNumber.py) |
+
+
 
 
 

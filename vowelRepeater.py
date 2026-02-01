@@ -5,4 +5,3 @@
 # The original vowel should keeps its case.
 # Repeated vowels should be lowercase.
 # All non-vowel characters should keep their original case.
-

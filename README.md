@@ -21,6 +21,4 @@
 | **017** | Feb 1 | Prime Number Checker  | 🟢 Easy | Dummy | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/February/chekPrimeNumber.py) |
 | **018** | Feb 2 | Groundhog Day  | 🟢 Easy | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/February/groundhogDay.py) |
 | **019** | Feb 3 | String Mirror  | 🟢 Easy | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/February/stringMirror.py) |
-
-
-
+| **020** | Feb 4 | Truncate the Text  | 🟢 Easy | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/February/truncateText.py) |

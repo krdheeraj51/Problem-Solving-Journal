@@ -23,3 +23,4 @@
 | **019** | Feb 3 | String Mirror  | 🟢 Easy | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/February/stringMirror.py) |
 | **020** | Feb 4 | Truncate the Text  | 🟢 Easy | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/February/truncateText.py) |
 | **021** | Feb 5 | Pocket Change  | 🟢 Easy | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/February/pocketChange.py) |
+| **022** | Feb 6 | 2026 Winter Games Day 1: Opening Day  | 🟢 Easy | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/February/winterGamesDay1.py) |

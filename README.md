@@ -26,5 +26,6 @@
 | **022** | Feb 6 | 2026 Winter Games Day 1: Opening Day  | 🟡 Medium | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/February/winterGamesDay1.py) |
 | **023** | Feb 7 | 2026 Winter Games Day 2: Opening Day  | 🟡 Medium | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/February/winterGamesDay2.py) |
 | **024** | Feb 8 | 2026 Winter Games Day 3: Biathlon  | 🟢 Easy | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/February/winterGamesDay3.py) |
+| **025** | Feb 9 | 2026 Winter Games Day 4: Ski Jumping  | 🟢 Easy | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/February/winterGamesDay4.py) |
 
 

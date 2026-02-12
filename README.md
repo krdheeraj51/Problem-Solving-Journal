@@ -29,6 +29,7 @@
 | **025** | Feb 9 | 2026 Winter Games Day 4: Ski Jumping  | 🟢 Easy | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/February/winterGamesDay4.py) |
 | **026** | Feb 10 | Hello World | 🟢 Easy | Dummy | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/February/hello_world.py) |
 | **027** | Feb 11 | 2026 Winter Games Day 6: Figure Skating | 🟢 Easy | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/February/winterGamesDay6.py) |
+| **028** | Feb 12 | 2026 Winter Games Day 7: Figure Skating | 🟢 Easy | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/February/winterGamesDay7.py) |
 
 
 

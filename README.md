@@ -31,6 +31,9 @@
 | **027** | Feb 11 | 2026 Winter Games Day 6: Figure Skating | 🟢 Easy | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/February/winterGamesDay6.py) |
 | **028** | Feb 12 | 2026 Winter Games Day 7: Figure Skating | 🟢 Easy | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/February/winterGamesDay7.py) |
 | **029** | Feb 13 | 2026 Winter Games Day 8: Luge | 🟢 Easy | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/February/winterGamesDay8.py) |
+| **030** | Feb 13 | Sort 0s, 1s and 2s | 🟡 Medium | GeeksforGeeks | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/February/sort0s1s2s.py) |
+
+ 
 
 
 

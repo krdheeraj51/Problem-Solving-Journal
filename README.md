@@ -33,9 +33,4 @@
 | **029** | Feb 13 | 2026 Winter Games Day 8: Luge | 🟢 Easy | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/February/winterGamesDay8.py) |
 | **030** | Feb 13 | Sort 0s, 1s and 2s | 🟡 Medium | GeeksforGeeks | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/February/sort0s1s2s.py) |
 | **031** | Feb 14 | Hello World | 🟢 Easy | Dummy | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/February/hello_world_1.py) |
- 
-
-
-
-
-
+| **032** | Feb 15 | 2026 Winter Games Day 10: Alpine Skiing | 🟢 Easy | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/February/winterGamesDay10.py) |

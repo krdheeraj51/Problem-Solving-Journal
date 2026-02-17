@@ -35,3 +35,4 @@
 | **031** | Feb 14 | Hello World | 🟢 Easy | Dummy | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/February/hello_world_1.py) |
 | **032** | Feb 15 | 2026 Winter Games Day 10: Alpine Skiing | 🟢 Easy | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/February/winterGamesDay10.py) |
 | **033** | Feb 16 | Hello World | 🟢 Easy | Dummmy | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/February/hello_world_2.py) |
+| **034** | Feb 17 | Hello World | 🟢 Easy | Dummmy | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/February/hello_world_3.py) |

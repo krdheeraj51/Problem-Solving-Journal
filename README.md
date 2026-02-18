@@ -36,3 +36,5 @@
 | **032** | Feb 15 | 2026 Winter Games Day 10: Alpine Skiing | 🟢 Easy | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/February/winterGamesDay10.py) |
 | **033** | Feb 16 | Hello World | 🟢 Easy | Dummmy | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/February/hello_world_2.py) |
 | **034** | Feb 17 | Hello World | 🟢 Easy | Dummmy | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/February/hello_world_3.py) |
+| **035** | Feb 18 | 2026 Winter Games Day 13: Nordic Combined | 🟢 Easy | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/February/winterGamesDay13.py) |
+

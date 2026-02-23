@@ -41,6 +41,7 @@
 | **037** | Feb 20 | 2026 Winter Games Day 15: Freestyle Skiing | 🟢 Easy | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/February/winterGamesDay15.py) |
 | **038** | Feb 21 | Hello World 4 | 🟢 Easy | Dummy | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/February/hello_world_4.py) |
 | **039** | Feb 22 | 2026 Winter Games Day 17: Closing Day | 🟡 Medium | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/February/winterGamesDay17.py) |
+| **040** | Feb 23 | Blood Type Compatibility | 🟡 Medium | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/February/bloodTypeCompatibility.py) |
 
 
 

@@ -43,5 +43,7 @@
 | **039** | Feb 22 | 2026 Winter Games Day 17: Closing Day | 🟡 Medium | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/February/winterGamesDay17.py) |
 | **040** | Feb 23 | Blood Type Compatibility | 🟡 Medium | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/February/bloodTypeCompatibility.py) |
 | **041** | Feb 24 | Business Day Count | 🟢 Easy | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/February/businessDayCount.py) |
+| **042** | Feb 25 | Sequential Difference | 🟢 Easy | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/February/sequentialDifference.py) |
+
 
 

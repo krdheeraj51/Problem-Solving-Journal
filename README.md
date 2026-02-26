@@ -44,6 +44,8 @@
 | **040** | Feb 23 | Blood Type Compatibility | 🟡 Medium | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/February/bloodTypeCompatibility.py) |
 | **041** | Feb 24 | Business Day Count | 🟢 Easy | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/February/businessDayCount.py) |
 | **042** | Feb 25 | Sequential Difference | 🟢 Easy | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/February/sequentialDifference.py) |
+| **043** | Feb 26 | Letter and Number Count | 🟢 Easy | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/February/letterNumberCount.py) |
+
 
 
 

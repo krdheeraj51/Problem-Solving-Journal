@@ -46,6 +46,5 @@
 | **042** | Feb 25 | Sequential Difference | 🟢 Easy | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/February/sequentialDifference.py) |
 | **043** | Feb 26 | Letter and Number Count | 🟢 Easy | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/February/letterNumberCount.py) |
 | **044** | Feb 27 | Hello World | 🟢 Easy | Dummmy | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/February/hello_world_5.py) |
-
-
+| **045** | Feb 28 | Add Punctuation | 🟢 Easy | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/February/addPunctuation.py) |
 

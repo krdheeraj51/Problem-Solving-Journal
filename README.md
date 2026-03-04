@@ -50,3 +50,6 @@
 | **046** | March 1 | Flattened | 🟢 Easy | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/March/flatted.py) |
 | **046** | March 2 | Sum the Letters | 🟢 Easy | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/March/sumtheLetters.py) |
 | **047** | March 3 | Hello World | 🟢 Easy | Dummmy | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/March/hello_world_1.py) |
+| **048** | March 4 | Playing Card Values | 🟡 Medium | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/March/playingCardValues.py) |
+
+

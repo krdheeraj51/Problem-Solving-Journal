@@ -52,5 +52,6 @@
 | **048** | March 3 | Hello World | 🟢 Easy | Dummmy | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/March/hello_world_1.py) |
 | **049** | March 4 | Playing Card Values | 🟡 Medium | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/March/playingCardValues.py) |
 | **050** | March 5 | Hello World | 🟢 Easy | Dummmy | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/March/hello_world_2.py) |
+| **051** | March 6 | Hello World | 🟢 Easy | Dummmy | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/March/hello_world_3.py) |
 
 

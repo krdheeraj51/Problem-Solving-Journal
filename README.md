@@ -54,3 +54,4 @@
 | **050** | March 5 | Hello World | 🟢 Easy | Dummmy | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/March/hello_world_2.py) |
 | **051** | March 6 | Hello World | 🟢 Easy | Dummmy | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/March/hello_world_3.py) |
 | **052** | March 7 | Element Size | 🟢 Easy | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/March/elementSize.py) |
+| **053** | March 8 | Hello World | 🟢 Easy | Dummmy | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/March/hello_world_4.py) |

@@ -57,4 +57,4 @@
 | **053** | March 8 | Hello World | 🟢 Easy | Dummmy | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/March/hello_world_4.py) |
 | **054** | March 10 | Array Insertion | 🟢 Easy | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/March/arrayInsertion.py) |
 | **055** | March 10 | Array Sum | 🟢 Easy | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/March/arraySum.py) |
-
+| **055** | March 11 | Word Length Converter | 🟢 Easy | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/March/wordLengthConvertor.py) |

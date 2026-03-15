@@ -61,3 +61,5 @@
 | **056** | March 12 | Domino Chain Validator | 🟢 Easy | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/March/dominoChainValidator.py) |
 | **057** | March 13 | Hello World | 🟢 Easy | Dummmy | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/March/hello_world_5.py) |
 | **058** | March 14 | Hello World | 🟢 Easy | Dummmy | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/March/hello_world_6.py) |
+| **058** | March 15 | Captured Chess Pieces| 🟢 Easy | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/March/capturedChessPices.py) |
+

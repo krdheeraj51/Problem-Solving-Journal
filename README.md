@@ -63,4 +63,5 @@
 | **058** | March 14 | Hello World | 🟢 Easy | Dummmy | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/March/hello_world_6.py) |
 | **058** | March 15 | Captured Chess Pieces| 🟢 Easy | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/March/capturedChessPices.py) |
 | **059** | March 16 | Captured Chess Pieces| 🟢 Easy | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/March/evenlyDevide.py) |
+| **060** | March 17 | Anniversary Milestones| 🟢 Easy | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/March/marriageAnniversary.py) |
 

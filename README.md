@@ -2,6 +2,7 @@
 
 | Day | Date | Problem Name | Difficulty | Platform | Solution Link |
 |:---|:---|:---|:---|:---|:---|
+| **076** | April 8 | FizzBuzz Validator | 🟡 Medium | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/April/fuzzBuzzValidator.py) |
 | **075** | April 6 | What Day Is It? | 🟡 Medium | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/April/getDayOfWeeek.py) |
 | **074** | April 4 | Equation Validation | 🟡 Medium | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/April/equationValidation.py) |
 | **073** | April 3 | Browser History | 🟢 Easy | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/April/browserHistory.py) |

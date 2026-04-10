@@ -2,6 +2,7 @@
 
 | Day | Date | Problem Name | Difficulty | Platform | Solution Link |
 |:---|:---|:---|:---|:---|:---|
+| **078** | April 10 | Rook Attack | 🟢 Easy | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/April/rookAttack.py) |
 | **077** | April 9 | Next Bingo Number | 🟡 Medium | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/April/nextBingoNumber.py) |
 | **076** | April 8 | FizzBuzz Validator | 🟡 Medium | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/April/fuzzBuzzValidator.py) |
 | **075** | April 6 | What Day Is It? | 🟡 Medium | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/April/getDayOfWeeek.py) |

@@ -3,6 +3,7 @@
 
 # If two or more letters tie for the last in the alphabet, return the first one.
 # Ignore all non-letter characters.
+# https://www.freecodecamp.org/learn/daily-coding-challenge/2026-04-13
 
 def last_letter(s):
     # Filter out non-letter characters and convert to uppercase

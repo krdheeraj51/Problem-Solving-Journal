@@ -2,7 +2,8 @@
 
 | Day | Date | Problem Name | Difficulty | Platform | Solution Link |
 |:---|:---|:---|:---|:---|:---|
-| **081** | April 13 |Last Letter | 🟢 Easy| FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/April/lastLetter.py) |
+| **082** | April 15 | Sorted Array Swap | 🟢 Easy| FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/April/sorted_swapArray.py)|
+| **081** | April 14 |Last Letter | 🟢 Easy| FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/April/lastLetter.py) |
 | **080** | April 13 | Name Initials | 🟢 Easy| FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/April/nameInitials.py) |
 | **079** | April 12 | Sum of Array | 🟢 Easy | Dummy | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/April/sumOfArray.py) |
 | **079** | April 11 | Prime Number Check | 🟢 Easy | Dummy | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/April/isPrimeNumber.py) |

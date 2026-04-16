@@ -2,6 +2,7 @@
 
 | Day | Date | Problem Name | Difficulty | Platform | Solution Link |
 |:---|:---|:---|:---|:---|:---|
+| **083** | April 16 | Smallest Positive Missing Number | 🟡 Medium | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/April/smallestPositiveMissing.py)|
 | **082** | April 15 | Sorted Array Swap | 🟢 Easy| FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/April/sorted_swapArray.py)|
 | **081** | April 14 |Last Letter | 🟢 Easy| FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/April/lastLetter.py) |
 | **080** | April 13 | Name Initials | 🟢 Easy| FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/April/nameInitials.py) |

@@ -2,6 +2,7 @@
 
 | Day | Date | Problem Name | Difficulty | Platform | Solution Link |
 |:---|:---|:---|:---|:---|:---|
+| **085** | April 20 | Acronym Finder | 🟢 Easy | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/April/acronomyFinder.py)|
 | **084** | April 19 | Unique Stair Climber | 🟢 Easy | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/April/uniqueStairClimb.py)|
 | 🔴 **NA** | April 18 | NO ACTIVITY | - | - | - |
 | 🔴 **NA** | April 17 | NO ACTIVITY | - | - | - |

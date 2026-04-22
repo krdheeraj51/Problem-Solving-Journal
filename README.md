@@ -2,6 +2,8 @@
 
 | Day | Date | Problem Name | Difficulty | Platform | Solution Link |
 |:---|:---|:---|:---|:---|:---|
+| **085** | April 22 | Merge Array | 🟢 Easy | Dummy | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/April/acronomyFinder.py) |
+| 🔴 **NA** | April 21 | NO ACTIVITY | - | - | - |
 | **085** | April 20 | Acronym Finder | 🟢 Easy | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/April/acronomyFinder.py)|
 | **084** | April 19 | Unique Stair Climber | 🟢 Easy | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/April/uniqueStairClimb.py)|
 | 🔴 **NA** | April 18 | NO ACTIVITY | - | - | - |

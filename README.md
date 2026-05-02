@@ -2,6 +2,7 @@
 
 | Day | Date | Problem Name | Difficulty | Platform | Solution Link |
 |:---|:---|:---|:---|:---|:---|
+| **091** | May 1 | Anagram Groups | 🟢 Easy | GeeksforGeeks | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/May/anagramGroup.py) |
 | **091** | April 30 |Array Search| 🟢 Easy | GeeksforGeeks | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/April/arraySearch.py) |
 | **090** | April 29 |URL Query Parser| 🟢 Easy | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/April/urlParser.py) |
 | **089** | April 28 | Number Words| 🟢 Easy | FreeCodeCamp | [View Solution](https://github.com/krdheeraj51/Problem-Solving-Journal/blob/main/2026/April/numberWord.py) |
